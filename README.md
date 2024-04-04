@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front and Backend Development, C/C++, UI/UX, AI & Machine Learning
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on AI building
-- 📫 How to reach me [Twitter](https://twitter.com/nachikat_soni)
+- 📫 How to reach me: [Twitter](https://twitter.com/nachikat_soni)
 - 😄 Pronouns: he/him
 
 <!---
